@@ -2,9 +2,12 @@
 
 
 
-<detail>
+<details>
 
-## <summary>🏢마이루틴(my routine)</summary>
+<summary>
+
+## 🏢마이루틴(my routine)
+</summary>
 
 ### ✅ Role(역할)
 
@@ -45,7 +48,7 @@
 
 ### ✅ [링크](https://www.wanted.co.kr/wd/117346)
 
-</detail>
+</details>
 
 <br>
 
