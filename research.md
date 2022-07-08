@@ -3,7 +3,6 @@
 
 
 <details>
-
 <summary>
 
 ## 🏢마이루틴(my routine)
@@ -52,9 +51,11 @@
 
 <br>
 
----
+<details>
+<summary>
 
 ## 🏢트레벗(TRAVUT)
+</summary>
 
 ### ✅ Role(역할)
 
@@ -92,11 +93,12 @@
 
 ### ✅ [링크](https://www.wanted.co.kr/wd/104339)
 
-<br>
+</details>
 
----
-
+<details>
+<summary>
 ## 🏢퍼블리
+</summary>
 
 ### ✅ Role(역할)
 
@@ -132,10 +134,10 @@
 
 
 ### ✅ [링크](https://www.jumpit.co.kr/position/5377)
+</details>
 
 <br>
 
----
 
 ## 🏢 핏투데이케어
 
