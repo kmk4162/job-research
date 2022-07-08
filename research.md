@@ -4,8 +4,8 @@
 
 <details>
 <summary>
-
-## 🏢마이루틴(my routine)
+       
+## 🏢 마이루틴(my routine)
 </summary>
 
 ### ✅ Role(역할)
@@ -21,8 +21,6 @@
        • 모든 팀원이 함께하는 코드 리뷰, 페어 프로그래밍을 적극적으로 권장합니다.
 
 <br>
-
-
 
 ### ✅ Requirements(요구사항)
 
@@ -49,12 +47,10 @@
 
 </details>
 
-<br>
-
 <details>
 <summary>
 
-## 🏢트레벗(TRAVUT)
+## 🏢 트레벗(TRAVUT)
 </summary>
 
 ### ✅ Role(역할)
@@ -97,6 +93,7 @@
 
 <details>
 <summary>
+       
 ## 🏢퍼블리
 </summary>
 
@@ -136,11 +133,12 @@
 ### ✅ [링크](https://www.jumpit.co.kr/position/5377)
 </details>
 
-<br>
-
-
+<details>
+<summary>
+       
 ## 🏢 핏투데이케어
-
+</summary>
+       
 ### ✅ Role(역할)
 
 
@@ -174,14 +172,16 @@
 
 <br>
 
-
-
 ### ✅ [링크](https://www.jumpit.co.kr/position/10204)
+</details>
 
----
-
+<details>
+<summary>
+       
 ## 🏢 원티드랩
-
+       
+</summary>
+       
 ### ✅ Role(역할)
 
 • 원티드의 콘텐츠/커뮤니티/교육 서비스 기능 제공을 위한 REST API 개발
@@ -202,8 +202,6 @@
 
 <br>
 
-
-
 ### ✅ Good to have(우대사항)
 
 • 서버 현지화, 최적화, 모바일 API 및 푸시 서버 등 다양한 서버 프로젝트 경험
@@ -217,14 +215,15 @@
 • 비지니스 영어 가능자
 
 <br>
-
-
-
+       
 ### ✅ [링크](https://www.wanted.co.kr/wd/120233)
+</details>
 
----
-
+<details>
+<summary>
+       
 ## 🏢 메타로고스
+</summary>
 
 ### ✅ Role(역할)
 
@@ -269,9 +268,13 @@
 
 ### ✅ [링크](https://www.jumpit.co.kr/position/10408)
 
----
+</details>
 
+<details>
+<summary>
+       
 ## 🏢 정육각
+</summary>
 
 ### ✅ Role(역할)
 
@@ -318,11 +321,14 @@
 
 
 ### ✅ [링크](https://www.wanted.co.kr/wd/96333)
+</details>
 
----
-
+<details>
+<summary>
+       
 ## 🏢 플랜잇파트너스
-
+</summary>
+       
 ### ✅ Role(역할)
 
 • Tableau 활용 대시보드 개발
@@ -360,6 +366,4 @@
 
 
 ### ✅ [링크](https://www.wanted.co.kr/wd/120011)
-
----
-
+</details>
